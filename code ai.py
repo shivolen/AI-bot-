@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Copy of AI_in_15.ipynb
+"""
 
 
 Import the dataset.
